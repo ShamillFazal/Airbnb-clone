@@ -1,4 +1,4 @@
-import katie from "../images/katie-zaferes.jpeg"
+import katie from "../images/katie-zaferes.png"
 import star from "../images/star.png"
 
 export default function Card() {
